@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+- 🌱 I’m currently improving on Go and all things backend at [boot.dev](https://www.boot.dev/u/matkluge)
+
 <!--
 **mathiaskluge/mathiaskluge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
