@@ -1,5 +1,6 @@
 ## Hi, I'm Mathias 👋
 
-- 🔭 I’ve been coding in Python & Go for over a year
-- 🏗️ I'm working on digital learning tools for kids
-- 🌱 While exploring more things software engineering
+- 🔬 Dabbling in Go, React/TypeScript, Swift and others
+- 🔭 Working towards financial literacy being a pillar in kid's education
+- 🌱 While picking up a thing or 2 about engineering from breaking things
+- 🧙‍♂️ Proud [boot.dev](https://www.boot.dev) archmage coin owner
